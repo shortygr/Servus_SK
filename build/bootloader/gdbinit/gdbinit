@@ -1,0 +1,2 @@
+source C:/wa/Servus_SK/build/bootloader/gdbinit/symbols
+source C:/wa/Servus_SK/build/bootloader/gdbinit/connect
